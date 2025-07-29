@@ -32,3 +32,10 @@ shown in PNG file.
 
 ## Arduino Code
 you can find it in arduino code file. 
+
+
+# adding sensor to the task 
+
+i tried to add PIR sensor but i stucked in the coding i didn't understand the logic and how both the sensor and the button should work toghther.
+
+Provided a PNG for the circuit including the sensor and a brd file for the circuit all named ( with sensor ).
